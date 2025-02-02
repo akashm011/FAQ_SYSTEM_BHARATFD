@@ -1,0 +1,4 @@
+GOOGLE_CLOUD_API_KEY=YOUR_API_KEY_HERE
+REDIS_URL=your-redis-url
+MONGO_URL=your-mongodb-url
+PORT=port
