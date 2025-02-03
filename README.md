@@ -37,7 +37,7 @@ Before you begin, ensure you have the following installed:
 1. **Clone the Repository**
 
    ```
-   git clone https://github.com/sajalbatra/hiring_at_BharatFD.git
+   git clone https://github.com/akashm011/FAQ_SYSTEM_BHARATFD.git
    cd hiring_at_BharatFD
    ```
 
